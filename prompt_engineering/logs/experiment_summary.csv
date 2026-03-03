@@ -1,0 +1,5 @@
+strategy,avg_latency_sec,avg_total_tokens,format_compliance_rate,avg_consistency
+Few-Shot,2.133720636666643,119.57894736842105,0.95,1.0
+Role-Based,2.330941673333291,79.65,1.0,0.9833333333333333
+Structured,1.9260489166667563,84.65,1.0,1.0
+Zero-Shot,1.2108807816667044,70.65,1.0,1.0

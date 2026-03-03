@@ -1,0 +1,2281 @@
+timestamp_utc,model,strategy,input_id,input_text,run_id,prompt,raw_output,normalized_label,format_compliant,latency_sec,prompt_tokens,completion_tokens,total_tokens,consistency_score
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,1,I absolutely loved the movie!,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: I absolutely loved the movie!
+Answer with just the label.",Positive,Positive,True,0.3175135000001319,69.0,2.0,71.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,1,I absolutely loved the movie!,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: I absolutely loved the movie!
+Answer with just the label.",Positive,Positive,True,0.1027168000000529,69.0,2.0,71.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,1,I absolutely loved the movie!,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: I absolutely loved the movie!
+Answer with just the label.",Positive,Positive,True,0.11105399999996735,69.0,2.0,71.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,2,The product quality is terrible.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: The product quality is terrible.
+Answer with just the label.",Negative,Negative,True,0.10708690000046772,69.0,2.0,71.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,2,The product quality is terrible.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: The product quality is terrible.
+Answer with just the label.",Negative,Negative,True,0.10078810000049998,69.0,2.0,71.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,2,The product quality is terrible.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: The product quality is terrible.
+Answer with just the label.",Negative,Negative,True,0.10279689999970287,69.0,2.0,71.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,3,"It was okay, not great but not bad.",1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: It was okay, not great but not bad.
+Answer with just the label.",Neutral,Neutral,True,0.10221360000014101,73.0,2.0,75.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,3,"It was okay, not great but not bad.",2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: It was okay, not great but not bad.
+Answer with just the label.",Neutral,Neutral,True,0.1113085000006322,73.0,2.0,75.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,3,"It was okay, not great but not bad.",3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: It was okay, not great but not bad.
+Answer with just the label.",Neutral,Neutral,True,0.11563130000013189,73.0,2.0,75.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,4,Worst customer service ever.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Worst customer service ever.
+Answer with just the label.",Negative,Negative,True,0.10431090000020049,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,4,Worst customer service ever.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Worst customer service ever.
+Answer with just the label.",Negative,Negative,True,0.09832360000018525,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,4,Worst customer service ever.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Worst customer service ever.
+Answer with just the label.",Negative,Negative,True,0.13037330000042857,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,5,"Amazing experience, would buy again!",1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Amazing experience, would buy again!
+Answer with just the label.",Positive,Positive,True,0.2359360000000379,70.0,2.0,72.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,5,"Amazing experience, would buy again!",2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Amazing experience, would buy again!
+Answer with just the label.",Positive,Positive,True,0.10110530000019935,70.0,2.0,72.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,5,"Amazing experience, would buy again!",3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Amazing experience, would buy again!
+Answer with just the label.",Positive,Positive,True,0.10437949999959528,70.0,2.0,72.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,6,Delivery was late and packaging was damaged.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Delivery was late and packaging was damaged.
+Answer with just the label.",Negative,Negative,True,0.10495230000014999,71.0,2.0,73.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,6,Delivery was late and packaging was damaged.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Delivery was late and packaging was damaged.
+Answer with just the label.",Negative,Negative,True,0.47608709999985876,71.0,2.0,73.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,6,Delivery was late and packaging was damaged.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Delivery was late and packaging was damaged.
+Answer with just the label.",Negative,Negative,True,0.2648349999999482,71.0,2.0,73.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,7,Fantastic app interface.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Fantastic app interface.
+Answer with just the label.",Positive,Positive,True,0.1040579999998954,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,7,Fantastic app interface.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Fantastic app interface.
+Answer with just the label.",Positive,Positive,True,0.10232170000017504,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,7,Fantastic app interface.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Fantastic app interface.
+Answer with just the label.",Positive,Positive,True,0.09920789999978297,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,8,The food tasted horrible.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: The food tasted horrible.
+Answer with just the label.",Negative,Negative,True,0.10293050000018411,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,8,The food tasted horrible.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: The food tasted horrible.
+Answer with just the label.",Negative,Negative,True,0.09932839999964926,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,8,The food tasted horrible.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: The food tasted horrible.
+Answer with just the label.",Negative,Negative,True,0.2495505000006233,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,9,Very satisfied with the purchase.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Very satisfied with the purchase.
+Answer with just the label.",Positive,Positive,True,0.3072650000003705,69.0,2.0,71.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,9,Very satisfied with the purchase.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Very satisfied with the purchase.
+Answer with just the label.",Positive,Positive,True,0.36444749999918713,69.0,2.0,71.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,9,Very satisfied with the purchase.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Very satisfied with the purchase.
+Answer with just the label.",Positive,Positive,True,0.10495110000010754,69.0,2.0,71.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,10,Not worth the price.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Not worth the price.
+Answer with just the label.",Negative,Negative,True,0.45182219999969675,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,10,Not worth the price.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Not worth the price.
+Answer with just the label.",Negative,Negative,True,0.09607909999976982,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,10,Not worth the price.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Not worth the price.
+Answer with just the label.",Negative,Negative,True,0.10393779999958497,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,11,Exceeded my expectations.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Exceeded my expectations.
+Answer with just the label.",Positive,Positive,True,2.3255325000000084,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,11,Exceeded my expectations.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Exceeded my expectations.
+Answer with just the label.",Positive,Positive,True,2.1452218000003995,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,11,Exceeded my expectations.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Exceeded my expectations.
+Answer with just the label.",Positive,Positive,True,2.151402500000586,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,12,Battery life is disappointing.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Battery life is disappointing.
+Answer with just the label.",Negative,Negative,True,2.2881727000003593,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,12,Battery life is disappointing.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Battery life is disappointing.
+Answer with just the label.",Negative,Negative,True,2.3428868000000875,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,12,Battery life is disappointing.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Battery life is disappointing.
+Answer with just the label.",Negative,Negative,True,2.1546364999994694,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,13,Super fast and reliable.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Super fast and reliable.
+Answer with just the label.",Positive,Positive,True,2.560220699999263,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,13,Super fast and reliable.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Super fast and reliable.
+Answer with just the label.",Positive,Positive,True,2.290168700000322,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,13,Super fast and reliable.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Super fast and reliable.
+Answer with just the label.",Positive,Positive,True,2.15466540000034,68.0,2.0,70.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,14,Waste of money.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Waste of money.
+Answer with just the label.",Negative,Negative,True,2.153447800000322,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,14,Waste of money.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Waste of money.
+Answer with just the label.",Negative,Negative,True,2.306278299999576,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,14,Waste of money.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Waste of money.
+Answer with just the label.",Negative,Negative,True,2.164118900000176,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,15,Highly recommend this!,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Highly recommend this!
+Answer with just the label.",Positive,Positive,True,2.1476227000002837,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,15,Highly recommend this!,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Highly recommend this!
+Answer with just the label.",Positive,Positive,True,2.144880099999682,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,15,Highly recommend this!,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Highly recommend this!
+Answer with just the label.",Positive,Positive,True,2.148693400000411,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,16,It stopped working after one week.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: It stopped working after one week.
+Answer with just the label.",Negative,Negative,True,2.15476579999995,70.0,2.0,72.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,16,It stopped working after one week.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: It stopped working after one week.
+Answer with just the label.",Negative,Negative,True,2.143811399999322,70.0,2.0,72.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,16,It stopped working after one week.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: It stopped working after one week.
+Answer with just the label.",Negative,Negative,True,2.3577750000004016,70.0,2.0,72.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,17,Pretty decent performance.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Pretty decent performance.
+Answer with just the label.",Positive,Positive,True,2.4036581000000297,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,17,Pretty decent performance.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Pretty decent performance.
+Answer with just the label.",Positive,Positive,True,2.1628137999996397,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,17,Pretty decent performance.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Pretty decent performance.
+Answer with just the label.",Positive,Positive,True,2.1598070000000007,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,18,Absolutely terrible design.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Absolutely terrible design.
+Answer with just the label.",Negative,Negative,True,2.2826187000000573,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,18,Absolutely terrible design.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Absolutely terrible design.
+Answer with just the label.",Negative,Negative,True,2.3548226000002614,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,18,Absolutely terrible design.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Absolutely terrible design.
+Answer with just the label.",Negative,Negative,True,2.429093400000056,67.0,2.0,69.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,19,Loved the color and build quality.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Loved the color and build quality.
+Answer with just the label.",Positive,Positive,True,2.31021950000013,70.0,2.0,72.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,19,Loved the color and build quality.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Loved the color and build quality.
+Answer with just the label.",Positive,Positive,True,2.1555687999998554,70.0,2.0,72.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,19,Loved the color and build quality.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Loved the color and build quality.
+Answer with just the label.",Positive,Positive,True,2.149494500000401,70.0,2.0,72.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,20,Not happy with the service.,1,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Not happy with the service.
+Answer with just the label.",Negative,Negative,True,2.1631909000007,69.0,2.0,71.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,20,Not happy with the service.,2,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Not happy with the service.
+Answer with just the label.",Negative,Negative,True,2.718289699999332,69.0,2.0,71.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Zero-Shot,20,Not happy with the service.,3,"Classify the sentiment of the following text as one label only:
+Positive, Negative, or Neutral.
+
+Text: Not happy with the service.
+Answer with just the label.",Negative,Negative,True,2.251656599999478,69.0,2.0,71.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,1,I absolutely loved the movie!,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: I absolutely loved the movie!
+Label:",Positive,Positive,True,2.558339799999885,78.0,2.0,80.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,1,I absolutely loved the movie!,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: I absolutely loved the movie!
+Label:",Positive,Positive,True,2.1689388999993753,78.0,2.0,80.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,1,I absolutely loved the movie!,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: I absolutely loved the movie!
+Label:",Positive,Positive,True,2.45221279999987,78.0,2.0,80.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,2,The product quality is terrible.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: The product quality is terrible.
+Label:",Negative,Negative,True,2.650069999999687,78.0,2.0,80.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,2,The product quality is terrible.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: The product quality is terrible.
+Label:",Negative,Negative,True,2.4127834999999322,78.0,2.0,80.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,2,The product quality is terrible.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: The product quality is terrible.
+Label:",Negative,Negative,True,2.2967220000000452,78.0,2.0,80.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,3,"It was okay, not great but not bad.",1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: It was okay, not great but not bad.
+Label:",Neutral,Neutral,True,2.250850200000059,82.0,2.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,3,"It was okay, not great but not bad.",2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: It was okay, not great but not bad.
+Label:",Neutral,Neutral,True,2.1647258000002694,82.0,2.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,3,"It was okay, not great but not bad.",3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: It was okay, not great but not bad.
+Label:",Neutral,Neutral,True,2.3421188000002076,82.0,2.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,4,Worst customer service ever.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Worst customer service ever.
+Label:",Negative,Negative,True,2.4578785000003336,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,4,Worst customer service ever.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Worst customer service ever.
+Label:",Negative,Negative,True,2.1819949000000634,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,4,Worst customer service ever.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Worst customer service ever.
+Label:",Negative,Negative,True,2.9362105999998676,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,5,"Amazing experience, would buy again!",1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Amazing experience, would buy again!
+Label:",Positive,Positive,True,2.3540124999999534,79.0,2.0,81.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,5,"Amazing experience, would buy again!",2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Amazing experience, would buy again!
+Label:",Positive,Positive,True,2.335826499999712,79.0,2.0,81.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,5,"Amazing experience, would buy again!",3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Amazing experience, would buy again!
+Label:",Positive,Positive,True,2.2706456000005346,79.0,2.0,81.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,6,Delivery was late and packaging was damaged.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Delivery was late and packaging was damaged.
+Label:",Negative,Negative,True,2.1670390999997835,80.0,2.0,82.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,6,Delivery was late and packaging was damaged.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Delivery was late and packaging was damaged.
+Label:",Negative,Negative,True,2.157249199999569,80.0,2.0,82.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,6,Delivery was late and packaging was damaged.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Delivery was late and packaging was damaged.
+Label:",Negative,Negative,True,2.333545800000138,80.0,2.0,82.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,7,Fantastic app interface.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Fantastic app interface.
+Label:",Positive,Positive,True,2.161201799999617,76.0,2.0,78.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,7,Fantastic app interface.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Fantastic app interface.
+Label:",Positive,Positive,True,2.156319299999268,76.0,2.0,78.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,7,Fantastic app interface.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Fantastic app interface.
+Label:",Positive,Positive,True,2.1511353999994753,76.0,2.0,78.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,8,The food tasted horrible.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: The food tasted horrible.
+Label:",Negative,Negative,True,2.270397999999659,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,8,The food tasted horrible.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: The food tasted horrible.
+Label:",Negative,Negative,True,2.150988200000029,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,8,The food tasted horrible.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: The food tasted horrible.
+Label:",Negative,Negative,True,2.2725696999996217,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,9,Very satisfied with the purchase.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Very satisfied with the purchase.
+Label:",Positive,Positive,True,2.396874199999729,78.0,2.0,80.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,9,Very satisfied with the purchase.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Very satisfied with the purchase.
+Label:",Positive,Positive,True,2.294480100000328,78.0,2.0,80.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,9,Very satisfied with the purchase.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Very satisfied with the purchase.
+Label:",Positive,Positive,True,2.176018600000134,78.0,2.0,80.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,10,Not worth the price.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Not worth the price.
+Label:",Negative,Negative,True,2.4917954000002283,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,10,Not worth the price.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Not worth the price.
+Label:",Negative,Negative,True,2.3548310000005586,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,10,Not worth the price.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Not worth the price.
+Label:",Negative,Negative,True,2.3543798000000606,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,11,Exceeded my expectations.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Exceeded my expectations.
+Label:",Positive,Positive,True,2.2669680000008157,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,11,Exceeded my expectations.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Exceeded my expectations.
+Label:",Positive,Positive,True,2.3405511000000843,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,11,Exceeded my expectations.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Exceeded my expectations.
+Label:",Positive,Positive,True,2.3467782999996416,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,12,Battery life is disappointing.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Battery life is disappointing.
+Label:",Negative,Negative,True,2.2539577999996254,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,12,Battery life is disappointing.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Battery life is disappointing.
+Label:",Negative,Negative,True,2.189530900000136,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,12,Battery life is disappointing.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Battery life is disappointing.
+Label:",Negative,Negative,True,2.5442269999994096,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,13,Super fast and reliable.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Super fast and reliable.
+Label:",Positive,Positive,True,2.2700850000001083,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,13,Super fast and reliable.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Super fast and reliable.
+Label:",Positive,Positive,True,2.2745256999996855,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,13,Super fast and reliable.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Super fast and reliable.
+Label:",Positive,Positive,True,2.297804900000301,77.0,2.0,79.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,14,Waste of money.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Waste of money.
+Label:",Negative,Negative,True,2.161742599999343,76.0,2.0,78.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,14,Waste of money.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Waste of money.
+Label:",Negative,Negative,True,2.158875199999784,76.0,2.0,78.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,14,Waste of money.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Waste of money.
+Label:",Negative,Negative,True,2.2324868000005154,76.0,2.0,78.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,15,Highly recommend this!,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Highly recommend this!
+Label:",Positive,Positive,True,2.259099700000661,76.0,2.0,78.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,15,Highly recommend this!,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Highly recommend this!
+Label:",Positive,Positive,True,2.4503360999997312,76.0,2.0,78.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,15,Highly recommend this!,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Highly recommend this!
+Label:",Positive,Positive,True,2.2534371000001556,76.0,2.0,78.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,16,It stopped working after one week.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: It stopped working after one week.
+Label:",Negative,Negative,True,2.456008600000132,79.0,2.0,81.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,16,It stopped working after one week.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: It stopped working after one week.
+Label:",Negative,Negative,True,2.4578409000005195,79.0,2.0,81.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,16,It stopped working after one week.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: It stopped working after one week.
+Label:",Negative,Negative,True,2.2521703000002162,79.0,2.0,81.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,17,Pretty decent performance.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Pretty decent performance.
+Label:",Positive,Positive,True,2.3548451000006025,76.0,2.0,78.0,0.6666666666666666
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,17,Pretty decent performance.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Pretty decent performance.
+Label:",Neutral,Neutral,True,2.2534034999998767,76.0,2.0,78.0,0.6666666666666666
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,17,Pretty decent performance.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Pretty decent performance.
+Label:",Neutral,Neutral,True,2.864734600000702,76.0,2.0,78.0,0.6666666666666666
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,18,Absolutely terrible design.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Absolutely terrible design.
+Label:",Negative,Negative,True,2.255556600000091,76.0,2.0,78.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,18,Absolutely terrible design.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Absolutely terrible design.
+Label:",Negative,Negative,True,2.6253632999996626,76.0,2.0,78.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,18,Absolutely terrible design.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Absolutely terrible design.
+Label:",Negative,Negative,True,2.149530599999707,76.0,2.0,78.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,19,Loved the color and build quality.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Loved the color and build quality.
+Label:",Positive,Positive,True,2.390583499999593,79.0,2.0,81.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,19,Loved the color and build quality.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Loved the color and build quality.
+Label:",Positive,Positive,True,2.1657344999994166,79.0,2.0,81.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,19,Loved the color and build quality.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Loved the color and build quality.
+Label:",Positive,Positive,True,2.6460932999998477,79.0,2.0,81.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,20,Not happy with the service.,1,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Not happy with the service.
+Label:",Negative,Negative,True,2.2904789999993227,78.0,2.0,80.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,20,Not happy with the service.,2,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Not happy with the service.
+Label:",Negative,Negative,True,2.3290091999997458,78.0,2.0,80.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Role-Based,20,Not happy with the service.,3,"You are a strict sentiment analysis evaluator for an NLP lab.
+Classify the text into exactly one label from:
+Positive, Negative, Neutral.
+Do not explain.
+
+Text: Not happy with the service.
+Label:",Negative,Negative,True,2.3425852000000305,78.0,2.0,80.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,1,I absolutely loved the movie!,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: I absolutely loved the movie!
+Sentiment:",Sentiment: Positive,Positive,True,2.171079099999588,115.0,5.0,120.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,1,I absolutely loved the movie!,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: I absolutely loved the movie!
+Sentiment:",Sentiment: Positive,Positive,True,2.2709957999995822,115.0,5.0,120.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,1,I absolutely loved the movie!,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: I absolutely loved the movie!
+Sentiment:",Sentiment: Positive,Positive,True,2.519538999999895,115.0,5.0,120.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,2,The product quality is terrible.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: The product quality is terrible.
+Sentiment:",Sentiment: Negative,Negative,True,2.2936078000002453,115.0,5.0,120.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,2,The product quality is terrible.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: The product quality is terrible.
+Sentiment:",Sentiment: Negative,Negative,True,2.43003249999947,115.0,5.0,120.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,2,The product quality is terrible.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: The product quality is terrible.
+Sentiment:",Sentiment: Negative,Negative,True,2.238619600000675,115.0,5.0,120.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,3,"It was okay, not great but not bad.",1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: It was okay, not great but not bad.
+Sentiment:",Sentiment: Neutral,Neutral,True,2.1784914999998364,119.0,5.0,124.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,3,"It was okay, not great but not bad.",2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: It was okay, not great but not bad.
+Sentiment:",Sentiment: Neutral,Neutral,True,2.3289821999997002,119.0,5.0,124.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,3,"It was okay, not great but not bad.",3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: It was okay, not great but not bad.
+Sentiment:",Sentiment: Neutral,Neutral,True,2.1763096000004225,119.0,5.0,124.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,4,Worst customer service ever.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Worst customer service ever.
+Sentiment:",Sentiment: Negative,Negative,True,2.3253029999996215,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,4,Worst customer service ever.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Worst customer service ever.
+Sentiment:",Sentiment: Negative,Negative,True,2.3547506000004432,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,4,Worst customer service ever.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Worst customer service ever.
+Sentiment:",Sentiment: Negative,Negative,True,2.3560455000006186,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,5,"Amazing experience, would buy again!",1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Amazing experience, would buy again!
+Sentiment:",Sentiment: Positive,Positive,True,2.3523285999999644,116.0,5.0,121.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,5,"Amazing experience, would buy again!",2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Amazing experience, would buy again!
+Sentiment:",Sentiment: Positive,Positive,True,2.363635899999281,116.0,5.0,121.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,5,"Amazing experience, would buy again!",3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Amazing experience, would buy again!
+Sentiment:",Sentiment: Positive,Positive,True,2.4485158000006777,116.0,5.0,121.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,6,Delivery was late and packaging was damaged.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Delivery was late and packaging was damaged.
+Sentiment:",Sentiment: Negative,Negative,True,2.355225500000415,117.0,5.0,122.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,6,Delivery was late and packaging was damaged.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Delivery was late and packaging was damaged.
+Sentiment:",Sentiment: Negative,Negative,True,2.1770728000001327,117.0,5.0,122.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,6,Delivery was late and packaging was damaged.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Delivery was late and packaging was damaged.
+Sentiment:",Sentiment: Negative,Negative,True,2.2265922999995382,117.0,5.0,122.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,7,Fantastic app interface.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Fantastic app interface.
+Sentiment:",Sentiment: Positive,Positive,True,2.200000199999522,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,7,Fantastic app interface.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Fantastic app interface.
+Sentiment:",Sentiment: Positive,Positive,True,2.2988701000003857,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,7,Fantastic app interface.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Fantastic app interface.
+Sentiment:",Sentiment: Positive,Positive,True,2.2571690999993734,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,8,The food tasted horrible.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: The food tasted horrible.
+Sentiment:",Sentiment: Negative,Negative,True,2.179140200000802,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,8,The food tasted horrible.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: The food tasted horrible.
+Sentiment:",Sentiment: Negative,Negative,True,2.2230547999997725,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,8,The food tasted horrible.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: The food tasted horrible.
+Sentiment:",Sentiment: Negative,Negative,True,2.3546315000003233,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,9,Very satisfied with the purchase.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Very satisfied with the purchase.
+Sentiment:",Sentiment: Positive,Positive,True,2.1733608000004097,115.0,5.0,120.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,9,Very satisfied with the purchase.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Very satisfied with the purchase.
+Sentiment:",Sentiment: Positive,Positive,True,2.4114081999996415,115.0,5.0,120.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,9,Very satisfied with the purchase.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Very satisfied with the purchase.
+Sentiment:",Sentiment: Positive,Positive,True,2.37863599999946,115.0,5.0,120.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,10,Not worth the price.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Not worth the price.
+Sentiment:",Sentiment: Negative,Negative,True,2.1807384000003367,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,10,Not worth the price.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Not worth the price.
+Sentiment:",Sentiment: Negative,Negative,True,2.3262585999991643,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,10,Not worth the price.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Not worth the price.
+Sentiment:",Sentiment: Negative,Negative,True,2.284898900000371,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,11,Exceeded my expectations.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Exceeded my expectations.
+Sentiment:",Sentiment: Positive,Positive,True,2.3507729000002655,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,11,Exceeded my expectations.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Exceeded my expectations.
+Sentiment:",Sentiment: Positive,Positive,True,2.1618734000003315,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,11,Exceeded my expectations.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Exceeded my expectations.
+Sentiment:",Sentiment: Positive,Positive,True,2.300031599999784,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,12,Battery life is disappointing.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Battery life is disappointing.
+Sentiment:",Sentiment: Negative,Negative,True,2.4687921999993705,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,12,Battery life is disappointing.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Battery life is disappointing.
+Sentiment:",Sentiment: Negative,Negative,True,2.2539853000007497,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,12,Battery life is disappointing.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Battery life is disappointing.
+Sentiment:",Sentiment: Negative,Negative,True,2.164494399999967,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,13,Super fast and reliable.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Super fast and reliable.
+Sentiment:",Sentiment: Positive,Positive,True,2.1619175999994695,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,13,Super fast and reliable.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Super fast and reliable.
+Sentiment:",Sentiment: Positive,Positive,True,2.16353590000017,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,13,Super fast and reliable.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Super fast and reliable.
+Sentiment:",Sentiment: Positive,Positive,True,2.172534799999994,114.0,5.0,119.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,14,Waste of money.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Waste of money.
+Sentiment:",Sentiment: Negative,Negative,True,2.291407900000195,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,14,Waste of money.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Waste of money.
+Sentiment:",Sentiment: Negative,Negative,True,2.337490799999614,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,14,Waste of money.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Waste of money.
+Sentiment:",Sentiment: Negative,Negative,True,2.3739550999998755,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,15,Highly recommend this!,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Highly recommend this!
+Sentiment:",Sentiment: Positive,Positive,True,2.35354180000013,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,15,Highly recommend this!,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Highly recommend this!
+Sentiment:",Sentiment: Positive,Positive,True,2.356433400000242,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,15,Highly recommend this!,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Highly recommend this!
+Sentiment:",Sentiment: Positive,Positive,True,2.354037000000062,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,16,It stopped working after one week.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: It stopped working after one week.
+Sentiment:",Sentiment: Negative,Negative,True,2.354310499999883,116.0,5.0,121.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,16,It stopped working after one week.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: It stopped working after one week.
+Sentiment:",Sentiment: Negative,Negative,True,2.2155033999997613,116.0,5.0,121.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,16,It stopped working after one week.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: It stopped working after one week.
+Sentiment:",Sentiment: Negative,Negative,True,2.29101830000036,116.0,5.0,121.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,17,Pretty decent performance.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Pretty decent performance.
+Sentiment:",Sentiment: Neutral,Neutral,True,2.684018699999797,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,17,Pretty decent performance.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Pretty decent performance.
+Sentiment:",Sentiment: Neutral,Neutral,True,2.33239230000072,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,17,Pretty decent performance.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Pretty decent performance.
+Sentiment:",Sentiment: Neutral,Neutral,True,2.2526851000002353,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,18,Absolutely terrible design.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Absolutely terrible design.
+Sentiment:",Sentiment: Negative,Negative,True,2.246454099999937,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,18,Absolutely terrible design.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Absolutely terrible design.
+Sentiment:",Sentiment: Negative,Negative,True,2.2351098999997703,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,18,Absolutely terrible design.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Absolutely terrible design.
+Sentiment:",Sentiment: Negative,Negative,True,2.58483410000008,113.0,5.0,118.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,19,Loved the color and build quality.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Loved the color and build quality.
+Sentiment:",ERROR: APIConnectionError: Connection error.,,False,0.0,,,,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,19,Loved the color and build quality.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Loved the color and build quality.
+Sentiment:",ERROR: APIConnectionError: Connection error.,,False,0.0,,,,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,19,Loved the color and build quality.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Loved the color and build quality.
+Sentiment:",ERROR: APIConnectionError: Connection error.,,False,0.0,,,,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,20,Not happy with the service.,1,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Not happy with the service.
+Sentiment:",Sentiment: Negative,Negative,True,3.3997475999995004,115.0,5.0,120.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,20,Not happy with the service.,2,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Not happy with the service.
+Sentiment:",Sentiment: Negative,Negative,True,0.2208452999993824,115.0,5.0,120.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Few-Shot,20,Not happy with the service.,3,"Classify sentiment using one label: Positive, Negative, or Neutral.
+
+Example 1:
+Text: I love this product.
+Sentiment: Positive
+
+Example 2:
+Text: This is the worst experience ever.
+Sentiment: Negative
+
+Example 3:
+Text: It is okay, nothing special.
+Sentiment: Neutral
+
+Now classify:
+Text: Not happy with the service.
+Sentiment:",Sentiment: Negative,Negative,True,0.10622089999924356,115.0,5.0,120.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,1,I absolutely loved the movie!,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: I absolutely loved the movie!","{
+  ""sentiment"": ""Positive""
+}",Positive,True,0.09957890000077896,74.0,11.0,85.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,1,I absolutely loved the movie!,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: I absolutely loved the movie!","{
+  ""sentiment"": ""Positive""
+}",Positive,True,0.10269390000030398,74.0,11.0,85.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,1,I absolutely loved the movie!,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: I absolutely loved the movie!","{
+  ""sentiment"": ""Positive""
+}",Positive,True,0.34364319999986037,74.0,11.0,85.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,2,The product quality is terrible.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: The product quality is terrible.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,0.09811089999948308,74.0,11.0,85.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,2,The product quality is terrible.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: The product quality is terrible.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,0.10050800000044546,74.0,11.0,85.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,2,The product quality is terrible.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: The product quality is terrible.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,0.09942829999999958,74.0,11.0,85.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,3,"It was okay, not great but not bad.",1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: It was okay, not great but not bad.","{
+  ""sentiment"": ""Neutral""
+}",Neutral,True,0.2259155000001556,78.0,11.0,89.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,3,"It was okay, not great but not bad.",2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: It was okay, not great but not bad.","{
+  ""sentiment"": ""Neutral""
+}",Neutral,True,0.12099330000000919,78.0,11.0,89.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,3,"It was okay, not great but not bad.",3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: It was okay, not great but not bad.","{
+  ""sentiment"": ""Neutral""
+}",Neutral,True,0.10980209999979706,78.0,11.0,89.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,4,Worst customer service ever.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Worst customer service ever.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,0.09927999999945314,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,4,Worst customer service ever.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Worst customer service ever.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,0.10201609999967332,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,4,Worst customer service ever.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Worst customer service ever.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,0.211165699999583,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,5,"Amazing experience, would buy again!",1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Amazing experience, would buy again!","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.187357699999666,75.0,11.0,86.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,5,"Amazing experience, would buy again!",2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Amazing experience, would buy again!","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.2583288999994693,75.0,11.0,86.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,5,"Amazing experience, would buy again!",3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Amazing experience, would buy again!","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.1502989999999045,75.0,11.0,86.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,6,Delivery was late and packaging was damaged.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Delivery was late and packaging was damaged.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.145455399999264,76.0,11.0,87.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,6,Delivery was late and packaging was damaged.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Delivery was late and packaging was damaged.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.760528200000408,76.0,11.0,87.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,6,Delivery was late and packaging was damaged.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Delivery was late and packaging was damaged.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.4722938000004433,76.0,11.0,87.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,7,Fantastic app interface.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Fantastic app interface.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.7253225999993447,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,7,Fantastic app interface.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Fantastic app interface.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.470678200000293,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,7,Fantastic app interface.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Fantastic app interface.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.150115800000094,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,8,The food tasted horrible.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: The food tasted horrible.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.322588399999404,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,8,The food tasted horrible.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: The food tasted horrible.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.3909630999996807,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,8,The food tasted horrible.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: The food tasted horrible.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,3.7843628000000535,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,9,Very satisfied with the purchase.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Very satisfied with the purchase.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.7184151000001293,74.0,11.0,85.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,9,Very satisfied with the purchase.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Very satisfied with the purchase.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.148817300000701,74.0,11.0,85.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,9,Very satisfied with the purchase.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Very satisfied with the purchase.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.605825399999958,74.0,11.0,85.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,10,Not worth the price.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Not worth the price.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.15646629999992,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,10,Not worth the price.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Not worth the price.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.437864200000149,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,10,Not worth the price.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Not worth the price.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.1616523000002417,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,11,Exceeded my expectations.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Exceeded my expectations.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.147316000000501,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,11,Exceeded my expectations.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Exceeded my expectations.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.267458600000282,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,11,Exceeded my expectations.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Exceeded my expectations.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.149402199999713,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,12,Battery life is disappointing.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Battery life is disappointing.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.4509952000007615,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,12,Battery life is disappointing.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Battery life is disappointing.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.3374463000000105,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,12,Battery life is disappointing.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Battery life is disappointing.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.6795365000007223,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,13,Super fast and reliable.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Super fast and reliable.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.304027500000302,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,13,Super fast and reliable.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Super fast and reliable.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.3092288999996526,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,13,Super fast and reliable.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Super fast and reliable.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.145633099999941,73.0,11.0,84.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,14,Waste of money.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Waste of money.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.3534752999994453,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,14,Waste of money.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Waste of money.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,3.070206500000495,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,14,Waste of money.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Waste of money.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.271383700000115,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,15,Highly recommend this!,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Highly recommend this!","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.1437118000003466,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,15,Highly recommend this!,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Highly recommend this!","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.156800900000235,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,15,Highly recommend this!,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Highly recommend this!","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.2997017999996388,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,16,It stopped working after one week.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: It stopped working after one week.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.1628113000006124,75.0,11.0,86.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,16,It stopped working after one week.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: It stopped working after one week.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.1681468000006134,75.0,11.0,86.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,16,It stopped working after one week.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: It stopped working after one week.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.2654083999996146,75.0,11.0,86.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,17,Pretty decent performance.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Pretty decent performance.","{
+  ""sentiment"": ""Neutral""
+}",Neutral,True,2.448546100000385,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,17,Pretty decent performance.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Pretty decent performance.","{
+  ""sentiment"": ""Neutral""
+}",Neutral,True,2.6476646000000983,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,17,Pretty decent performance.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Pretty decent performance.","{
+  ""sentiment"": ""Neutral""
+}",Neutral,True,2.1663069000005635,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,18,Absolutely terrible design.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Absolutely terrible design.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.158624800000325,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,18,Absolutely terrible design.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Absolutely terrible design.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.15913510000064,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,18,Absolutely terrible design.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Absolutely terrible design.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.1498358999997436,72.0,11.0,83.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,19,Loved the color and build quality.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Loved the color and build quality.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.505206700000599,75.0,11.0,86.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,19,Loved the color and build quality.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Loved the color and build quality.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.3198847000003298,75.0,11.0,86.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,19,Loved the color and build quality.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Loved the color and build quality.","{
+  ""sentiment"": ""Positive""
+}",Positive,True,2.482892200000606,75.0,11.0,86.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,20,Not happy with the service.,1,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Not happy with the service.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.1405086000004303,74.0,11.0,85.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,20,Not happy with the service.,2,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Not happy with the service.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.3222156000001632,74.0,11.0,85.0,1.0
+2026-03-03T06:13:08Z,llama-3.3-70b-versatile,Structured,20,Not happy with the service.,3,"Classify the sentiment of the text.
+Return only valid JSON with this exact schema:
+{
+  ""sentiment"": ""Positive|Negative|Neutral""
+}
+
+Text: Not happy with the service.","{
+  ""sentiment"": ""Negative""
+}",Negative,True,2.6189525999998295,74.0,11.0,85.0,1.0
